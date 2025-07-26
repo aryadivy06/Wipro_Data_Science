@@ -8,3 +8,5 @@ This solution includes miniproject solution and assignment questions solution ba
 4. Command Line Agruments
 5. IO Operations
 6. Exception Handling
+7. Regular Expression
+8. List comprehension and Lambda Function
