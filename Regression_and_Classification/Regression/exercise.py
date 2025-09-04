@@ -116,7 +116,7 @@ print(f"Root Mean Squared Error (RMSE): {rmse:.2f}")
 print(f"Mean Absolute Error (MAE): {mae:.2f}")
 print(f"R² Score: {r2:.2f}")
 
-# Create a model that can predict  the profit based on its features . Use appropriate evaluation metrics.The  Dataset can be downloaded  from kaggle.com   Dataset : Salary_Data
+# 3. Create a model that can predict  the profit based on its features . Use appropriate evaluation metrics.The  Dataset can be downloaded  from kaggle.com   Dataset : Salary_Data
 
 import pandas as pd
 import numpy as np
