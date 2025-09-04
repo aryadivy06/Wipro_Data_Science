@@ -10,3 +10,7 @@ This solution includes miniproject solution and assignment questions solution ba
 6. Exception Handling
 7. Regular Expression
 8. List comprehension and Lambda Function
+
+
+
+In the introduction to NLP first dowload the yelp.csv from the kaggle.
